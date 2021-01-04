@@ -66,7 +66,7 @@ https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-
 
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/pclass%20and%20survived.png)
 
-https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/sex%20and%20survived.png
+![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/sex%20and%20survived.png)
 
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/embarked%20and%20survived.png)
 
