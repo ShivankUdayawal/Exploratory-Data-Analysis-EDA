@@ -26,13 +26,22 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 ## Content
 survival Survival : 0 = No, 1 = Yes
+
 pclass Ticket class : 1 = 1st(Upper), 2 = 2nd(Middle), 3 = 3rd(Lower)
+
 sex : M (Male), F (Female)
+
 Age : Age in years (Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5)
+
 sibsp : of siblings / spouses aboard the Titanic ( The dataset defines family relations in this way...)
+
 parch : of parents / children aboard the Titanic (The dataset defines family relations in this way...)
 (Parent = mother, father Child=daughter, son, stepdaughter, stepson. Some children travelled only with a nanny,therefore parch=0 for them.)
+
 ticket : Ticket number
+
 fare : Passenger fare
+
 cabin : Cabin number
+
 embarked : Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampto
