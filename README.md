@@ -48,7 +48,7 @@ embarked : Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampto
 
 ## Data Visualizing
 
-
+![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/Pclass.png)
 
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/survived.png)
 
@@ -58,7 +58,7 @@ embarked : Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampto
 
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/parch.png)
 
-https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/embarked.png
+![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/embarked.png)
 
 ![](https://github.com/ShivankUdayawal/Exploratory-Data-Analysis-EDA-of-Titanic-The-Ship-that-Sinked-/blob/main/age.png)
 
